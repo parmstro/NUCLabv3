@@ -5,3 +5,7 @@ Case Drawings use NewPowerBoardwPositioningHoles.fzz for power distribution boar
 This is NUCLab3_Chassis1 (See the [Wiki](https://github.com/parmstro/NUCLabv3/wiki))
 
 ![NUCLab3_Chassis1](https://github.com/parmstro/NUCLabv3/blob/main/NUCLab3_Chassis1.jpg)
+![NUCLab3_Build1](https://github.com/parmstro/NUCLabv3/blob/main/Build1.jpg)
+![NUCLab3_Build2](https://github.com/parmstro/NUCLabv3/blob/main/Build2.jpg)
+![NUCLab3_Build3](https://github.com/parmstro/NUCLabv3/blob/main/Build3.jpg)
+![NUCLab3_Build4](https://github.com/parmstro/NUCLabv3/blob/main/Build4.jpg)
